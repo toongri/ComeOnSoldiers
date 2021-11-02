@@ -1,0 +1,65 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Trap
+  - trapon
+  - T_Trap
+  - M_Trap
+  - B_Trap
+  - trapoff
+  - TrapParent
+  - Monster
+  - WavesInfo
+  - floor
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Background
+    uniqueID: 178242517
+    locked: 0
+  - name: ladder
+    uniqueID: 246103271
+    locked: 0
+  - name: Player
+    uniqueID: 1893661955
+    locked: 0
+  - name: Skill
+    uniqueID: 1962436629
+    locked: 0

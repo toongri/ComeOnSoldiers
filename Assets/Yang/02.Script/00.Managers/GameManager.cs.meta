@@ -1,0 +1,19 @@
+fileFormatVersion: 2
+guid: 56db1d76f4dcef74089c54061589634d
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - _mouseMgr: {instanceID: 0}
+  - dataManager: {instanceID: 0}
+  - _trap: {instanceID: 0}
+  - _warrior: {fileID: 114724847575066270, guid: c519422b62802e445ac11090b8357997,
+      type: 2}
+  - _dwarf: {fileID: 114556600653197332, guid: 84da219b5fe99d24b997a4f64d8d3f65, type: 2}
+  - _magician: {fileID: 114341663226686380, guid: 70efeffd483180c4e9d0869a87078616,
+      type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
